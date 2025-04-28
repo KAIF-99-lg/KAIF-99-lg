@@ -17,6 +17,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KAIF-99-lg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
+## Watch my contribution graph get eaten by a snake 🐍
+
+![snake gif](https://github.com/KAIF-99-lg/KAIF-99-lg/blob/output/github-snake.svg)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
