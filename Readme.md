@@ -20,7 +20,8 @@
 
 ## Watch my contribution graph get eaten by a snake 🐍
 
-![snake gif](https://raw.githubusercontent.com/KAIF-99-lg/KAIF-99-lg/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/KAIF-99-lg/KAIF-99-lg/output/github-contribution-grid-snake.svg)
+
 
 
 
