@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaif-99-lg" alt="kaif-99-lg" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@md" target="blank"><img src="https://img.shields.io/twitter/follow/@md?logo=twitter&style=for-the-badge" alt="@md" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mdkaif8100" target="blank"><img src="https://img.shields.io/twitter/follow/@mdkaif8100?logo=twitter&style=for-the-badge" alt="@mdkaif8100" /></a> </p>
 
 - 🌱 I’m currently learning **new technologies in Web development**
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdkaif8100" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/md_kaif_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MD_KAIF_99" height="30" width="40" /></a>
+<a href="https://twitter.com/@mdkaif8100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdkaif8100" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/md_kaif_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md_kaif_99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
