@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./header-image-name.png)
 
 
 💫 About Me:
