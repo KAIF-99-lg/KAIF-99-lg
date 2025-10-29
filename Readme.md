@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaif-99-lg&show_icons=true&locale=en" alt="kaif-99-lg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-99-lg&" alt="kaif-99-lg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-99-lg&" alt="KAIF-99-lg" /></p>
 
